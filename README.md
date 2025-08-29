@@ -1,12 +1,49 @@
-# React + Vite
+# 💼 My Portfolio Website – kudostech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my professional portfolio website, built with **React + Vite + TailwindCSS**.  
+It showcases my work, skills, and projects as a **UI/UX Designer and Frontend Developer**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
 
-## Expanding the ESLint configuration
+I’m a creative and results-driven developer based in **Westhoughton, Bolton, UK** with 3+ years of experience in:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- UI/UX Design (Figma)
+- Frontend Web Development (HTML, CSS, Tailwind, JavaScript, React)
+- Mobile App Development (React Native)
+
+I'm currently looking for **internship or job opportunities in the UK** that offer **Certificate of Sponsorship (CoS)**.
+
+---
+
+## 🔧 Built With
+
+- ⚛️ React + Vite
+- 💨 TailwindCSS
+- 🎨 Figma (for UI/UX design)
+- 🧠 Framer Motion + React Icons
+
+---
+
+## 🌍 Live Demo
+
+Check it out here 👉 [Live Website](https://kudostech-portfolio.vercel.app/)
+
+---
+
+## 📫 Contact
+
+Feel free to connect:
+
+- 📧 Email: [abolajiayobami2000@gmail.com](mailto:abolajiayobami2000@gmail.com)
+- 🌐 Portfolio: [https://kudostech-portfolio.vercel.app/]
+
+(https://kudostech-portfolio.vercel.app/)
+- 📍 Based in: Westhoughton, Bolton, UK
+
+---
+
+## 🏷️ Keywords
+
+`react` `vite` `tailwind` `frontend` `uiux` `react native` `web developer` `portfolio`
