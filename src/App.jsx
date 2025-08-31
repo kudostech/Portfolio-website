@@ -59,7 +59,7 @@ export default function App() {
         <p>
           I’m a creative and results-driven UI/UX Designer and Frontend Developer with over 3 years of
           experience. I specialize in building responsive web and mobile apps using Figma, React, Tailwind CSS,
-          and React Native. Based in Westhoughton, Bolton, UK — looking for Frontend Roles • Paid Internships opportunities.
+          and React Native. Based in Westhoughton, Bolton, UK — Open to Graduate Roles | Frontend Developer | Mobile App Developer (React, React Native)
         </p>
       </section>
 
