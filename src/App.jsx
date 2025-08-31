@@ -38,7 +38,7 @@ export default function App() {
         <h1 className="text-3xl font-bold">Qudus Abolaji</h1>
         <p className="text-gray-600">UI/UX Designer & Frontend Developer</p>
         <p className="mt-2 text-blue-600 font-medium">
-          Open to: Frontend Roles • Paid Internships opportunities.
+         Open to Graduate Roles | Frontend Developer | Mobile App Developer (React, React Native)
         </p>
         <div className="flex justify-center gap-6 mt-4 text-xl">
           <a href="https://github.com/kudostech" target="_blank" rel="noopener noreferrer">
@@ -88,7 +88,7 @@ export default function App() {
       <section className="bg-blue-100 py-10 px-4 text-center">
         <h2 className="text-2xl font-bold mb-2">Contact Me</h2>
         <p>Email: <a href="mailto:abolajiayobami2000@gmail.com" className="text-blue-600">abolajiayobami2000@gmail.com</a></p>
-        <p className="mt-2">Let’s work together or discuss a Frontend role and Paid internship opportunities in the UK.</p>
+        <p className="mt-2">Let’s work together or discuss Graduate Roles | Frontend Developer role | Mobile App Developer (React, React Native) role in the UK.</p>
       </section>
 
       {/* Footer */}
