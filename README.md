@@ -13,8 +13,7 @@ I’m a creative and results-driven developer based in **Westhoughton, Bolton, U
 - Frontend Web Development (HTML, CSS, Tailwind, JavaScript, React)
 - Mobile App Development (React Native)
 
-I'm currently looking for **internship or job opportunities in the UK** that offer **Certificate of Sponsorship (CoS)**.
-
+I'm currently looking for Open to Graduate Roles | Frontend Developer | Mobile App Developer (React, React Native)
 ---
 
 ## 🔧 Built With
